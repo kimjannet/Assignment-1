@@ -12,6 +12,7 @@
 		13B97F131BE728BD005F0D1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13B97F111BE728BD005F0D1F /* Main.storyboard */; };
 		13B97F151BE728BD005F0D1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B97F141BE728BD005F0D1F /* Assets.xcassets */; };
 		13B97F181BE728BD005F0D1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13B97F161BE728BD005F0D1F /* LaunchScreen.storyboard */; };
+		13B97F201BEAACE0005F0D1F /* 11986980_10154174023128154_7738695929276430536_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 13B97F1F1BEAACE0005F0D1F /* 11986980_10154174023128154_7738695929276430536_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		13B97F141BE728BD005F0D1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13B97F171BE728BD005F0D1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13B97F191BE728BD005F0D1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13B97F1F1BEAACE0005F0D1F /* 11986980_10154174023128154_7738695929276430536_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 11986980_10154174023128154_7738695929276430536_n.jpg; path = ../../../Downloads/11986980_10154174023128154_7738695929276430536_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				13B97F0D1BE728BD005F0D1F /* AppDelegate.swift */,
 				13B97F0F1BE728BD005F0D1F /* ViewController.swift */,
 				13B97F111BE728BD005F0D1F /* Main.storyboard */,
+				13B97F1F1BEAACE0005F0D1F /* 11986980_10154174023128154_7738695929276430536_n.jpg */,
 				13B97F141BE728BD005F0D1F /* Assets.xcassets */,
 				13B97F161BE728BD005F0D1F /* LaunchScreen.storyboard */,
 				13B97F191BE728BD005F0D1F /* Info.plist */,
@@ -124,6 +127,7 @@
 			files = (
 				13B97F181BE728BD005F0D1F /* LaunchScreen.storyboard in Resources */,
 				13B97F151BE728BD005F0D1F /* Assets.xcassets in Resources */,
+				13B97F201BEAACE0005F0D1F /* 11986980_10154174023128154_7738695929276430536_n.jpg in Resources */,
 				13B97F131BE728BD005F0D1F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
